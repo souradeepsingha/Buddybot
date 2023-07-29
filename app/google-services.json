@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795143919759",
+    "project_id": "buddybot-75b13",
+    "storage_bucket": "buddybot-75b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795143919759:android:5d46759255b0b8aa1cf8fa",
+        "android_client_info": {
+          "package_name": "com.example.Buddybot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795143919759-327hrdg8jghfk5jra5lnl7oeeahah7m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kQBgb3Q5PtW5DZTRffmdXA8UvC2M4hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795143919759-327hrdg8jghfk5jra5lnl7oeeahah7m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
