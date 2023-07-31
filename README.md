@@ -9,6 +9,7 @@ Buddybot App is an interactive chatbot application for Android devices. It allow
 
 - User registration and login system for personalized interactions.
 - Interactive chat interface for users to ask questions and receive answers.
+- [Use Your Api Key]
 
 
 ## Installation
