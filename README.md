@@ -1,23 +1,15 @@
-# Your Chatbot Android App
+# Buddybot
 
 
 ## Overview
 
-Your Chatbot Android App is an interactive chatbot application for Android devices. It allows users to ask questions and provides relevant answers. The app also includes a user registration and login system for personalized interactions.
+Buddybot App is an interactive chatbot application for Android devices. It allows users to ask questions and provides relevant answers. The app also includes a user registration and login system for personalized interactions.
 
 ## Features
 
 - User registration and login system for personalized interactions.
 - Interactive chat interface for users to ask questions and receive answers.
-- [Add more features here if applicable]
 
-## Screenshots
-
-[Add screenshots of the app to showcase its interface and functionality]
-
-## Demo
-
-[Provide a link to a video demo or APK download]
 
 ## Installation
 
