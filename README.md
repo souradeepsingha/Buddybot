@@ -17,6 +17,6 @@ Buddybot App is an interactive chatbot application for Android devices. It allow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/souradeepsingha/Buddybot.git
+cd Buddybot
 
